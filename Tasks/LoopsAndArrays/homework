@@ -1,0 +1,6 @@
+1. Write a Java program which will count the minimum number of bits required to hold the binary representation of a given positive number using recursion.
+
+2. Place eight queens on the regular chess board such that no queen is attacking any of the others. Write a Java program that will print 8X8 matrix. Matrix elements could be either 0 indicating empty square or 1 indicating a queen is on that aquare.
+
+3. A knight's tour is a sequence of moves of a knight on a chessboard such that the knight visits every square only once. If the knight ends on a square that is one knight's move from the beginning square (so that it could tour the board again immediately, following the same path), the tour is closed, otherwise it is open. 
+Write a Java program that constracts a closed knight's tour for each given start positon of the knight.
