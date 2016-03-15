@@ -22,7 +22,7 @@ Programming Languages
 ### Assembly Languages
 * Assembly languages are a step towards easier programming.
 * Assembly languages are comprised of a **set of elemental commands** which are tied to a specific processor.
-* Assembly language code needs to be translated to machin language before the computer processes it.
+* Assembly language code needs to be translated to machine language before the computer processes it.
 * Example:
 
  ```
