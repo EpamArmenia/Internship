@@ -1,0 +1,31 @@
+################### Task 1 ######################
+1. Properties file with name props.properties consist info:
+name=Valod
+surname=Valodyan
+age=23
+sex=m
+
+2. Manually create java bean class User.java with appropriate fields - the same as in props file.
+3. Read from props file and fill fields in User.java
+4. Serialize the User.java to the disc.
+5. Deserialize User.java
+
+################### Task 1 ######################
+1. We have the file with info :
+NAME, ID, PHONE_NUMBER
+Ender Wiggin, 1122, 555-1111
+Maria Macarena, 7788, 555-2222
+Bob Parwel, 1234, 534-6234
+Harry Potter, 9955,555-3333
+Honor Harrington, 8888, 555-4444
+R.Daneel Olivaw, 5555, 555-5555
+Peter Parker, 1234, 555-6666
+
+
+2. Read by line by IDs and write in other file.
+3. Get info for users with lastname started with "Par" and  "Mac" and write in other file.
+4. Add new line with user info "Barak Obama, 9980,5 55-9098" after "Bob Parwel, 1234, 534-6234" line in the same file.
+
+  
+
+
